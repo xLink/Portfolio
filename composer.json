@@ -18,7 +18,7 @@
         "cysha/pxcms-core"                  : "dev-master",
         "cysha/pxcms-auth"                  : "dev-master",
         "cysha/pxcms-admin"                 : "dev-master",
-        "paquettg/leaguewrap"               : "dev-master"
+        "xlink/pxcms-portfolio"             : "dev-master"
 
     },
     "require-dev": {
